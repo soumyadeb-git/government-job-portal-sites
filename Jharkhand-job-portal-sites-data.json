@@ -1,0 +1,427 @@
+{
+  "government_career_sites": [
+    {
+      "name": "Jharkhand Public Service Commission (JPSC)",
+      "category": "State Government",
+      "sub_category": "Recruitment Exams",
+      "link": "http://www.jpsc.gov.in/",
+      "search_tags": ["JPSC", "Jharkhand PSC", "Public Service Commission Jharkhand", "JPSC Recruitment"],
+      "exam_pattern": "Preliminary Exam, Main Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Recruitment Exams"]
+    },
+    {
+      "name": "Jharkhand Staff Selection Commission (JSSC)",
+      "category": "State Government",
+      "sub_category": "Recruitment Exams",
+      "link": "https://www.jssc.nic.in/",
+      "search_tags": ["JSSC", "Jharkhand SSC", "Staff Selection Commission Jharkhand", "JSSC Recruitment"],
+      "exam_pattern": "Preliminary Exam, Main Exam, Skill Test, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Recruitment Exams"]
+    },
+    {
+      "name": "Jharkhand High Court",
+      "category": "State Government",
+      "sub_category": "Judicial Jobs",
+      "link": "https://jharkhandhighcourt.nic.in/",
+      "search_tags": ["Jharkhand High Court Recruitment", "Judicial Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Judicial Jobs"]
+    },
+    {
+      "name": "Jharkhand State Electricity Board (JSEB)",
+      "category": "State Government",
+      "sub_category": "Electricity Jobs",
+      "link": "https://www.jseb.org/",
+      "search_tags": ["JSEB Recruitment", "Electricity Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Electricity Jobs"]
+    },
+    {
+      "name": "Jharkhand State Road Transport Corporation (JSRTC)",
+      "category": "State Government",
+      "sub_category": "Transport Jobs",
+      "link": "https://www.jsrtc.org/",
+      "search_tags": ["JSRTC Recruitment", "Transport Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Transport Jobs"]
+    },
+    {
+      "name": "Jharkhand State Pollution Control Board (JSPCB)",
+      "category": "State Government",
+      "sub_category": "Environmental Jobs",
+      "link": "http://jpc.nic.in/",
+      "search_tags": ["JSPCB Recruitment", "Environmental Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Environmental Jobs"]
+    },
+    {
+      "name": "Jharkhand State Mineral Development Corporation (JSMDC)",
+      "category": "State Government",
+      "sub_category": "Mining Jobs",
+      "link": "http://jsmdc.in/",
+      "search_tags": ["JSMDC Recruitment", "Mining Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Mining Jobs"]
+    },
+    {
+      "name": "Jharkhand State Livelihood Promotion Society (JSLPS)",
+      "category": "State Government",
+      "sub_category": "Rural Development Jobs",
+      "link": "https://www.jslps.org/",
+      "search_tags": ["JSLPS Recruitment", "Rural Development Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Rural Development Jobs"]
+    },
+    {
+      "name": "Jharkhand State Agricultural Marketing Board (JSAMB)",
+      "category": "State Government",
+      "sub_category": "Agriculture Jobs",
+      "link": "https://www.jsamb.org/",
+      "search_tags": ["JSAMB Recruitment", "Agriculture Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Agriculture Jobs"]
+    },
+    {
+      "name": "Jharkhand State AIDS Control Society (JSACS)",
+      "category": "State Government",
+      "sub_category": "Health Services Jobs",
+      "link": "http://www.jsacs.org.in/",
+      "search_tags": ["JSACS Recruitment", "Health Services Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Health Services Jobs"]
+    },
+    {
+      "name": "Jharkhand State Disaster Management Authority (JSDMA)",
+      "category": "State Government",
+      "sub_category": "Disaster Management Jobs",
+      "link": "http://jsdma.jharkhand.gov.in/",
+      "search_tags": ["JSDMA Recruitment", "Disaster Management Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Disaster Management Jobs"]
+    },
+    {
+      "name": "Jharkhand State Sports Promotion Society (JSSPS)",
+      "category": "State Government",
+      "sub_category": "Sports Jobs",
+      "link": "https://jharkhandsports.nic.in/",
+      "search_tags": ["JSSPS Recruitment", "Sports Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Sports Jobs"]
+    },
+    {
+      "name": "Jharkhand State Khadi and Village Industries Board (JSKVIB)",
+      "category": "State Government",
+      "sub_category": "Rural Development Jobs",
+      "link": "http://www.jskvib.nic.in/",
+      "search_tags": ["JSKVIB Recruitment", "Rural Development Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Rural Development Jobs"]
+    },
+    {
+      "name": "Jharkhand State Livestock Development Agency (JSLDA)",
+      "category": "State Government",
+      "sub_category": "Animal Husbandry Jobs",
+      "link": "https://www.jharkhand.gov.in/animal-husbandry",
+      "search_tags": ["JSLDA Recruitment", "Animal Husbandry Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Animal Husbandry Jobs"]
+    },
+    {
+      "name": "Jharkhand State Horticulture Mission (JSHM)",
+      "category": "State Government",
+      "sub_category": "Horticulture Jobs",
+      "link": "https://jharkhandhorticulture.nic.in/",
+      "search_tags": ["JSHM Recruitment", "Horticulture Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Horticulture Jobs"]
+    },
+    {
+      "name": "Jharkhand State Housing Board (JSHB)",
+      "category": "State Government",
+      "sub_category": "Housing Jobs",
+      "link": "https://jharkhandhousing.nic.in/",
+      "search_tags": ["JSHB Recruitment", "Housing Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Housing Jobs"]
+    },
+    {
+      "name": "Jharkhand State Forest Development Corporation (JSFDC)",
+      "category": "State Government",
+      "sub_category": "Forest Jobs",
+      "link": "http://www.jharkhandforest.com/",
+      "search_tags": ["JSFDC Recruitment", "Forest Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Forest Jobs"]
+    },
+    {
+      "name": "Jharkhand State Food and Civil Supplies Corporation Limited (JSFCSCL)",
+      "category": "State Government",
+      "sub_category": "Food and Civil Supplies Jobs",
+      "link": "http://www.jharkhand.gov.in/food-and-civil-supplies",
+      "search_tags": ["JSFCSCL Recruitment", "Food and Civil Supplies Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Food and Civil Supplies Jobs"]
+    },
+    {
+      "name": "Jharkhand State Drugs Control Authority (JSDCA)",
+      "category": "State Government",
+      "sub_category": "Pharmaceutical Jobs",
+      "link": "http://jharkhand.gov.in/drugs-control",
+      "search_tags": ["JSDCA Recruitment", "Pharmaceutical Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Pharmaceutical Jobs"]
+    },
+    {
+      "name": "Jharkhand State Directorate of Geology (JSDG)",
+      "category": "State Government",
+      "sub_category": "Geology Jobs",
+      "link": "https://jharkhand.gov.in/geology",
+      "search_tags": ["JSDG Recruitment", "Geology Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Geology Jobs"]
+    },
+    {
+      "name": "Jharkhand State Dairy Development Society (JSDDS)",
+      "category": "State Government",
+      "sub_category": "Dairy Development Jobs",
+      "link": "http://www.jharkhanddairy.com/",
+      "search_tags": ["JSDDS Recruitment", "Dairy Development Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Dairy Development Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Bank (JSCB)",
+      "category": "State Government",
+      "sub_category": "Banking Jobs",
+      "link": "https://www.jscb.gov.in/",
+      "search_tags": ["JSCB Recruitment", "Banking Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Banking Jobs"]
+    },
+    {
+      "name": "Jharkhand State Commission for Protection of Child Rights (JSCPCR)",
+      "category": "State Government",
+      "sub_category": "Child Rights Jobs",
+      "link": "https://jssc.nic.in/",
+      "search_tags": ["JSCPCR Recruitment", "Child Rights Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Child Rights Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Marketing Federation (JSCMF)",
+      "category": "State Government",
+      "sub_category": "Marketing Jobs",
+      "link": "http://www.jharkhand.gov.in/cooperative-marketing",
+      "search_tags": ["JSCMF Recruitment", "Marketing Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Marketing Jobs"]
+    },
+    {
+      "name": "Jharkhand State Civil Services Examination (JSCSE)",
+      "category": "State Government",
+      "sub_category": "Civil Services Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCSE Recruitment", "Civil Services Jobs in Jharkhand"],
+      "exam_pattern": "Preliminary Exam, Main Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Civil Services Jobs"]
+    },
+    {
+      "name": "Jharkhand State Commission for Women (JSCW)",
+      "category": "State Government",
+      "sub_category": "Women Empowerment Jobs",
+      "link": "http://www.jharkhand.gov.in/women-commission",
+      "search_tags": ["JSCW Recruitment", "Women Empowerment Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Women Empowerment Jobs"]
+    },
+    {
+      "name": "Jharkhand State Commission for Backward Classes (JSCBC)",
+      "category": "State Government",
+      "sub_category": "Backward Classes Jobs",
+      "link": "http://www.jharkhand.gov.in/backward-classes-commission",
+      "search_tags": ["JSCBC Recruitment", "Backward Classes Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Backward Classes Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Milk Producers Federation (JSCMPF)",
+      "category": "State Government",
+      "sub_category": "Dairy Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCMPF Recruitment", "Dairy Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Dairy Jobs"]
+    },
+    {
+      "name": "Jharkhand State Council for Science & Technology (JSCST)",
+      "category": "State Government",
+      "sub_category": "Science & Technology Jobs",
+      "link": "http://www.jharkhand.gov.in/",
+      "search_tags": ["JSCST Recruitment", "Science & Technology Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Science & Technology Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Fisheries Federation (JSCFF)",
+      "category": "State Government",
+      "sub_category": "Fisheries Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCFF Recruitment", "Fisheries Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Fisheries Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Handloom Weavers Federation (JSCHWF)",
+      "category": "State Government",
+      "sub_category": "Handloom Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCHWF Recruitment", "Handloom Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Handloom Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Spinning Mills Federation (JSCSMF)",
+      "category": "State Government",
+      "sub_category": "Spinning Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCSMF Recruitment", "Spinning Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Spinning Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Federation (JSCF)",
+      "category": "State Government",
+      "sub_category": "Cooperative Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCF Recruitment", "Cooperative Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Cooperative Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Seed Federation (JSCSF)",
+      "category": "State Government",
+      "sub_category": "Agriculture Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCSF Recruitment", "Agriculture Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Agriculture Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Transport Federation (JSCTF)",
+      "category": "State Government",
+      "sub_category": "Transport Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCTF Recruitment", "Transport Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Transport Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Marketing Federation (JSCMF)",
+      "category": "State Government",
+      "sub_category": "Marketing Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCMF Recruitment", "Marketing Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Marketing Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Consumer Federation (JSCCF)",
+      "category": "State Government",
+      "sub_category": "Consumer Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCCF Recruitment", "Consumer Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Consumer Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Dairy Federation (JSCDF)",
+      "category": "State Government",
+      "sub_category": "Dairy Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCDF Recruitment", "Dairy Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Dairy Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Federation (JSCF)",
+      "category": "State Government",
+      "sub_category": "Cooperative Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCF Recruitment", "Cooperative Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Cooperative Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Fisheries Federation (JSCFF)",
+      "category": "State Government",
+      "sub_category": "Fisheries Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCFF Recruitment", "Fisheries Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Fisheries Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Handloom Weavers Federation (JSCHWF)",
+      "category": "State Government",
+      "sub_category": "Handloom Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCHWF Recruitment", "Handloom Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Handloom Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Spinning Mills Federation (JSCSMF)",
+      "category": "State Government",
+      "sub_category": "Spinning Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCSMF Recruitment", "Spinning Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Spinning Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Seed Federation (JSCSF)",
+      "category": "State Government",
+      "sub_category": "Agriculture Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCSF Recruitment", "Agriculture Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Agriculture Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Transport Federation (JSCTF)",
+      "category": "State Government",
+      "sub_category": "Transport Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCTF Recruitment", "Transport Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Transport Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Marketing Federation (JSCMF)",
+      "category": "State Government",
+      "sub_category": "Marketing Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCMF Recruitment", "Marketing Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Marketing Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Consumer Federation (JSCCF)",
+      "category": "State Government",
+      "sub_category": "Consumer Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCCF Recruitment", "Consumer Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Consumer Jobs"]
+    },
+    {
+      "name": "Jharkhand State Cooperative Dairy Federation (JSCDF)",
+      "category": "State Government",
+      "sub_category": "Dairy Jobs",
+      "link": "https://www.jharkhand.gov.in/",
+      "search_tags": ["JSCDF Recruitment", "Dairy Jobs in Jharkhand"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["Jharkhand", "State Government", "Dairy Jobs"]
+    }
+  ]
+}
