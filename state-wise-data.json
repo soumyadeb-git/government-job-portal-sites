@@ -1,153 +1,138 @@
 {
   "states": [
     {
-      "name": "Andhra Pradesh",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/andhra-pradesh.jpeg",
+      "name": "arunachal-pradesh",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/arunachal-pradesh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Arunachal Pradesh",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/arunachal-pradesh.jpeg",
+      "name": "assam",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/assam.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Assam",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/assam.jpeg",
+      "name": "bihar",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/bihar.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Bihar",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/bihar.jpeg",
+      "name": "chandigarh",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/chandigarh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Chandigarh",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/chandigarh.jpeg",
+      "name": "chhatisgarh",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/chhatisgarh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Chhatisgarh",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/chhatisgarh.jpeg",
+      "name": "goa",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/goa.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Goa",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/goa.jpeg",
+      "name": "gujarat",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/gujarat.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Gujarat",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/gujarat.jpeg",
+      "name": "haryana",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/haryana.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Haryana",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/haryana.jpeg",
+      "name": "himachal",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/himachal.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Himachal Pradesh",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/himachal-pradesh.jpeg",
+      "name": "jammu-and-kashmir",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jammu-and-kashmir.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Jammu and Kashmir",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jammu-and-kashmir.jpeg",
+      "name": "jharkand",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jharkand.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Kerala",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/kerala.jpeg",
+      "name": "karnataka",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/karnataka.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Jharkhand",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jharkhand.jpeg",
+      "name": "kerala",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/kerala.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Karnataka",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/karnataka.jpeg",
+      "name": "madhya-pradesh",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/madhya-pradesh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Madhya Pradesh",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/madhya-pradesh.jpeg",
+      "name": "maharashtra",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/maharashtra.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Maharashtra",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/maharashtra.jpeg",
+      "name": "manipur",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/manipur.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Manipur",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/manipur.jpeg",
+      "name": "meghalaya",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/meghalaya.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Meghalaya",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/meghalaya.jpeg",
+      "name": "mizoram",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/mizoram.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Mizoram",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/mizoram.jpeg",
+      "name": "nagaland-india",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/nagaland-india.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Nagaland",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/nagaland.jpeg",
+      "name": "odisha",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/odisha.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Odisha",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/odisha.jpeg",
+      "name": "punjab",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/punjab.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Punjab",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/punjab.jpeg",
+      "name": "rajasthan",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/rajasthan.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Rajasthan",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/rajasthan.jpeg",
+      "name": "tamil-nadu",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/tamil-nadu.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Sikim",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/sikim.jpeg",
+      "name": "telangana",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/telangana.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Tamil Nadu",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/tamil-nadu.jpeg",
+      "name": "tripura",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/tripura.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Telangana",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/telangana.jpeg",
+      "name": "uttar-pradesh",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/uttar-pradesh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "Tripura",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/tripura.jpeg",
-      "hyperlink-url": ""
-    },
-    {
-      "name": "Uttar Pradesh",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/uttar-pradesh.jpeg",
-      "hyperlink-url": ""
-    },
-    {
-      "name": "Uttarakhand",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/uttarakhand.jpeg",
-      "hyperlink-url": ""
-    },
-    {
-      "name": "West Bengal",
-      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/west-bengal.jpeg",
+      "name": "west-bengal",
+      "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/west-bengal.png",
       "hyperlink-url": ""
     }
   ]
