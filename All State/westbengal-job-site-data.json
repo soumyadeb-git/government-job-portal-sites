@@ -1,0 +1,436 @@
+{
+  "government_career_sites": [
+    {
+      "name": "West Bengal Public Service Commission (WBPSC)",
+      "category": "State Government",
+      "sub_category": "Recruitment Exams",
+      "link": "https://www.pscwbonline.gov.in/",
+      "search_tags": ["WBPSC", "West Bengal PSC", "Public Service Commission West Bengal", "WBPSC Recruitment"],
+      "exam_pattern": "Preliminary Exam, Main Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Recruitment Exams"]
+    },
+    {
+      "name": "West Bengal School Service Commission (WBSSC)",
+      "category": "State Government",
+      "sub_category": "Teaching Jobs",
+      "link": "https://www.westbengalssc.com/",
+      "search_tags": ["WBSSC", "West Bengal School Service Commission", "Teaching Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Teaching Jobs"]
+    },
+    {
+      "name": "West Bengal Police Recruitment Board",
+      "category": "State Government",
+      "sub_category": "Police Jobs",
+      "link": "https://wbpolice.gov.in/",
+      "search_tags": ["West Bengal Police", "WB Police Recruitment", "Police Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Physical Test, Interview",
+      "json_tag": ["West Bengal", "State Government", "Police Jobs"]
+    },
+    {
+      "name": "West Bengal Health Recruitment Board (WBHRB)",
+      "category": "State Government",
+      "sub_category": "Medical Jobs",
+      "link": "http://www.wbhrb.in/",
+      "search_tags": ["WBHRB", "West Bengal Health Recruitment Board", "Medical Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Medical Jobs"]
+    },
+    {
+      "name": "West Bengal Municipal Service Commission (MSCWB)",
+      "category": "State Government",
+      "sub_category": "Municipal Jobs",
+      "link": "https://www.mscwb.org/",
+      "search_tags": ["MSCWB", "West Bengal Municipal Service Commission", "Municipal Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Municipal Jobs"]
+    },
+    {
+      "name": "West Bengal Power Development Corporation Limited (WBPDCL)",
+      "category": "State Government",
+      "sub_category": "Power & Energy Jobs",
+      "link": "https://www.wbpdcl.co.in/",
+      "search_tags": ["WBPDCL", "West Bengal Power Development Corporation Limited", "Energy Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Power & Energy Jobs"]
+    },
+    {
+      "name": "West Bengal State Electricity Distribution Company Limited (WBSEDCL)",
+      "category": "State Government",
+      "sub_category": "Power & Energy Jobs",
+      "link": "https://www.wbsedcl.in/",
+      "search_tags": ["WBSEDCL", "West Bengal State Electricity Distribution Company Limited", "Energy Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Power & Energy Jobs"]
+    },
+    {
+      "name": "West Bengal State Electricity Transmission Company Limited (WBSETCL)",
+      "category": "State Government",
+      "sub_category": "Power & Energy Jobs",
+      "link": "https://www.wbsetcl.in/",
+      "search_tags": ["WBSETCL", "West Bengal State Electricity Transmission Company Limited", "Energy Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Power & Energy Jobs"]
+    },
+    {
+      "name": "West Bengal State Warehousing Corporation (WBSWC)",
+      "category": "State Government",
+      "sub_category": "Warehouse Jobs",
+      "link": "http://warehousingwb.com/",
+      "search_tags": ["WBSWC", "West Bengal State Warehousing Corporation", "Warehouse Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Warehouse Jobs"]
+    },
+    {
+      "name": "West Bengal Transport Corporation (WBTC)",
+      "category": "State Government",
+      "sub_category": "Transport Jobs",
+      "link": "http://www.wbtc.gov.in/",
+      "search_tags": ["WBTC", "West Bengal Transport Corporation", "Transport Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Transport Jobs"]
+    },
+    {
+      "name": "West Bengal Forest Development Corporation (WBFDC)",
+      "category": "State Government",
+      "sub_category": "Forest Jobs",
+      "link": "http://wbfdc.gov.in/",
+      "search_tags": ["WBFDC", "West Bengal Forest Development Corporation", "Forest Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Forest Jobs"]
+    },
+    {
+      "name": "West Bengal Co-operative Service Commission (WBCSC)",
+      "category": "State Government",
+      "sub_category": "Co-operative Jobs",
+      "link": "https://www.webcsc.org/",
+      "search_tags": ["WBCSC", "West Bengal Co-operative Service Commission", "Co-operative Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Co-operative Jobs"]
+    },
+    {
+      "name": "West Bengal Fire & Emergency Services",
+      "category": "State Government",
+      "sub_category": "Fire Service Jobs",
+      "link": "https://wbfes.gov.in/",
+      "search_tags": ["West Bengal Fire Service", "WBFES Recruitment", "Fire Service Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Physical Test, Interview",
+      "json_tag": ["West Bengal", "State Government", "Fire Service Jobs"]
+    },
+    {
+      "name": "West Bengal Public Works Department (WB PWD)",
+      "category": "State Government",
+      "sub_category": "Engineering Jobs",
+      "link": "http://www.wbpwd.gov.in/",
+      "search_tags": ["WB PWD", "West Bengal Public Works Department", "Engineering Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Engineering Jobs"]
+    },
+    {
+      "name": "West Bengal State Police Housing Corporation Limited (WBSPHCL)",
+      "category": "State Government",
+      "sub_category": "Housing Jobs",
+      "link": "http://wbphcl.in/",
+      "search_tags": ["WBSPHCL", "West Bengal State Police Housing Corporation Limited", "Housing Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Housing Jobs"]
+    },
+    {
+      "name": "West Bengal State Police Housing Corporation Limited (WBSPHCL)",
+      "category": "State Government",
+      "sub_category": "Housing Jobs",
+      "link": "http://wbphcl.in/",
+      "search_tags": ["WBSPHCL", "West Bengal State Police Housing Corporation Limited", "Housing Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Housing Jobs"]
+    },
+    {
+      "name": "West Bengal State Emergency Relief Fund",
+      "category": "State Government",
+      "sub_category": "Emergency Relief Jobs",
+      "link": "https://wbserf.gov.in/",
+      "search_tags": ["West Bengal Emergency Relief", "WB Emergency Relief Fund", "Emergency Relief Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Emergency Relief Jobs"]
+    },
+    {
+      "name": "West Bengal Renewable Energy Development Agency (WBREDA)",
+      "category": "State Government",
+      "sub_category": "Renewable Energy Jobs",
+      "link": "https://www.wbreda.org/",
+      "search_tags": ["WBREDA", "West Bengal Renewable Energy Development Agency", "Renewable Energy Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Renewable Energy Jobs"]
+    },
+    {
+      "name": "West Bengal Industrial Development Corporation Limited (WBIDC)",
+      "category": "State Government",
+      "sub_category": "Industrial Jobs",
+      "link": "https://www.wbidc.com/",
+      "search_tags": ["WBIDC", "West Bengal Industrial Development Corporation Limited", "Industrial Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Industrial Jobs"]
+    },
+    {
+      "name": "West Bengal State Rural Development Agency (WBSRDA)",
+      "category": "State Government",
+      "sub_category": "Rural Development Jobs",
+      "link": "http://wbprd.gov.in/",
+      "search_tags": ["WBSRDA", "West Bengal State Rural Development Agency", "Rural Development Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Rural Development Jobs"]
+    },
+    {
+      "name": "West Bengal Transport Infrastructure Development Corporation Limited (WBTDCL)",
+      "category": "State Government",
+      "sub_category": "Infrastructure Jobs",
+      "link": "http://www.wbtidcl.com/",
+      "search_tags": ["WBTDCL", "West Bengal Transport Infrastructure Development Corporation Limited", "Infrastructure Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Infrastructure Jobs"]
+    },
+    {
+      "name": "West Bengal Urban Development & Municipal Affairs Department",
+      "category": "State Government",
+      "sub_category": "Urban Development Jobs",
+      "link": "https://wb.gov.in/departments/urban-development",
+      "search_tags": ["WB Urban Development", "West Bengal Municipal Affairs Department", "Urban Development Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Urban Development Jobs"]
+    },
+    {
+      "name": "West Bengal Directorate of Health Services",
+      "category": "State Government",
+      "sub_category": "Health Services Jobs",
+      "link": "https://www.wbhealth.gov.in/",
+      "search_tags": ["WB Health Services", "West Bengal Health Department", "Health Services Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Health Services Jobs"]
+    },
+    {
+      "name": "West Bengal Higher Education Department",
+      "category": "State Government",
+      "sub_category": "Higher Education Jobs",
+      "link": "https://wbhed.gov.in/",
+      "search_tags": ["WB Higher Education", "West Bengal Higher Education Department", "Higher Education Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Higher Education Jobs"]
+    },
+    {
+      "name": "West Bengal Tourism Development Corporation Limited (WBTDC)",
+      "category": "State Government",
+      "sub_category": "Tourism Jobs",
+      "link": "https://www.wbtdc.gov.in/",
+      "search_tags": ["WBTDC", "West Bengal Tourism Development Corporation Limited", "Tourism Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Tourism Jobs"]
+    },
+    {
+      "name": "West Bengal State Electricity Regulatory Commission (WBSERC)",
+      "category": "State Government",
+      "sub_category": "Electricity Regulatory Jobs",
+      "link": "http://www.wbsrec.org/",
+      "search_tags": ["WBSERC", "West Bengal Electricity Regulatory Commission", "Electricity Regulatory Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Electricity Regulatory Jobs"]
+    },
+    {
+      "name": "West Bengal State Handloom Weavers' Co-operative Society Limited (TANTUJA)",
+      "category": "State Government",
+      "sub_category": "Handloom Jobs",
+      "link": "http://www.tantuja.gov.in/",
+      "search_tags": ["TANTUJA", "West Bengal Handloom Weavers Co-operative Society", "Handloom Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Handloom Jobs"]
+    },
+    {
+      "name": "West Bengal State Beverages Corporation Limited (WBSBCL)",
+      "category": "State Government",
+      "sub_category": "Beverages Jobs",
+      "link": "http://www.wbexcise.gov.in/",
+      "search_tags": ["WBSBCL", "West Bengal Beverages Corporation Limited", "Beverages Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Beverages Jobs"]
+    },
+    {
+      "name": "West Bengal State Coastal Zone Management Authority (WBSCZMA)",
+      "category": "State Government",
+      "sub_category": "Coastal Zone Jobs",
+      "link": "http://wbsczma.gov.in/",
+      "search_tags": ["WBSCZMA", "West Bengal Coastal Zone Management Authority", "Coastal Zone Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Coastal Zone Jobs"]
+    },
+    {
+      "name": "West Bengal State Seed Corporation Limited (WBSSCL)",
+      "category": "State Government",
+      "sub_category": "Agriculture Jobs",
+      "link": "https://wbsscl.in/",
+      "search_tags": ["WBSSCL", "West Bengal Seed Corporation Limited", "Agriculture Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Agriculture Jobs"]
+    },
+    {
+      "name": "West Bengal State Legal Services Authority (WBSLSA)",
+      "category": "State Government",
+      "sub_category": "Legal Services Jobs",
+      "link": "https://www.wbslsa.org/",
+      "search_tags": ["WBSLSA", "West Bengal Legal Services Authority", "Legal Services Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Legal Services Jobs"]
+    },
+    {
+      "name": "West Bengal State Animal Husbandry & Veterinary Services",
+      "category": "State Government",
+      "sub_category": "Veterinary Jobs",
+      "link": "https://www.wbhsvs.org/",
+      "search_tags": ["WB Animal Husbandry", "West Bengal Veterinary Services", "Veterinary Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Veterinary Jobs"]
+    },
+    {
+      "name": "West Bengal State Transport Infrastructure Development Corporation Limited (WSTIDCL)",
+      "category": "State Government",
+      "sub_category": "Transport Infrastructure Jobs",
+      "link": "http://wstidcl.com/",
+      "search_tags": ["WSTIDCL", "West Bengal Transport Infrastructure Development Corporation Limited", "Transport Infrastructure Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Transport Infrastructure Jobs"]
+    },
+    {
+      "name": "West Bengal State Transport Corporation (WBSTC)",
+      "category": "State Government",
+      "sub_category": "Transport Corporation Jobs",
+      "link": "http://www.wbstc.co.in/",
+      "search_tags": ["WBSTC", "West Bengal State Transport Corporation", "Transport Corporation Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Transport Corporation Jobs"]
+    },
+    {
+      "name": "West Bengal State Women's Development Agency (WBSWDA)",
+      "category": "State Government",
+      "sub_category": "Women's Development Jobs",
+      "link": "https://wbwda.org/",
+      "search_tags": ["WBSWDA", "West Bengal Women's Development Agency", "Women's Development Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Women's Development Jobs"]
+    },
+    {
+      "name": "West Bengal State Minorities Development & Finance Corporation (WBSMDFC)",
+      "category": "State Government",
+      "sub_category": "Minorities Development Jobs",
+      "link": "https://wbmdfc.org/",
+      "search_tags": ["WBSMDFC", "West Bengal Minorities Development Corporation", "Minorities Development Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Minorities Development Jobs"]
+    },
+    {
+      "name": "West Bengal State Food Processing & Horticulture Development Corporation Limited (WBSFPHDCL)",
+      "category": "State Government",
+      "sub_category": "Food Processing Jobs",
+      "link": "http://www.wbsfphdcl.in/",
+      "search_tags": ["WBSFPHDCL", "West Bengal Food Processing Corporation", "Food Processing Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Food Processing Jobs"]
+    },
+    {
+      "name": "West Bengal State Rural Development Agency (WBSRDA)",
+      "category": "State Government",
+      "sub_category": "Rural Development Jobs",
+      "link": "http://wbprd.gov.in/",
+      "search_tags": ["WBSRDA", "West Bengal State Rural Development Agency", "Rural Development Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Rural Development Jobs"]
+    },
+    {
+      "name": "West Bengal State Council of Science & Technology (WBSCST)",
+      "category": "State Government",
+      "sub_category": "Science & Technology Jobs",
+      "link": "https://wbscst.org/",
+      "search_tags": ["WBSCST", "West Bengal Science Council", "Science & Technology Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Science & Technology Jobs"]
+    },
+    {
+      "name": "West Bengal State Environment Impact Assessment Authority (WBSEIAA)",
+      "category": "State Government",
+      "sub_category": "Environment Jobs",
+      "link": "https://wbpcb.gov.in/",
+      "search_tags": ["WBSEIAA", "West Bengal Environment Authority", "Environment Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Environment Jobs"]
+    },
+    {
+      "name": "West Bengal State Council of Science & Technology (WBSCST)",
+      "category": "State Government",
+      "sub_category": "Science & Technology Jobs",
+      "link": "https://wbscst.org/",
+      "search_tags": ["WBSCST", "West Bengal Science Council", "Science & Technology Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Science & Technology Jobs"]
+    },
+    {
+      "name": "West Bengal State Commission for Women",
+      "category": "State Government",
+      "sub_category": "Women Empowerment Jobs",
+      "link": "https://wbcw.co.in/",
+      "search_tags": ["West Bengal Women Commission", "Women Empowerment Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Women Empowerment Jobs"]
+    },
+    {
+      "name": "West Bengal State Legal Services Authority (WBSLSA)",
+      "category": "State Government",
+      "sub_category": "Legal Services Jobs",
+      "link": "https://www.wbslsa.org/",
+      "search_tags": ["WBSLSA", "West Bengal Legal Services Authority", "Legal Services Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Legal Services Jobs"]
+    },
+    {
+      "name": "West Bengal State Water Investigation Directorate (WSWID)",
+      "category": "State Government",
+      "sub_category": "Water Management Jobs",
+      "link": "https://wsuidwb.org/",
+      "search_tags": ["WSWID", "West Bengal Water Investigation Directorate", "Water Management Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Water Management Jobs"]
+    },
+    {
+      "name": "West Bengal State Council of Vocational Education & Training (WBSCVET)",
+      "category": "State Government",
+      "sub_category": "Vocational Education Jobs",
+      "link": "https://wbscvt.net/",
+      "search_tags": ["WBSCVET", "West Bengal Vocational Education Council", "Vocational Education Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Vocational Education Jobs"]
+    },
+    {
+      "name": "West Bengal State Council of Technical & Vocational Education & Skill Development (WBSCTVESD)",
+      "category": "State Government",
+      "sub_category": "Technical Education Jobs",
+      "link": "https://wbsctvesd.net/",
+      "search_tags": ["WBSCTVESD", "West Bengal Technical Education Council", "Technical Education Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Technical Education Jobs"]
+    },
+    {
+      "name": "West Bengal State Commission for Backward Classes",
+      "category": "State Government",
+      "sub_category": "Backward Classes Jobs",
+      "link": "https://wbcommissionbc.gov.in/",
+      "search_tags": ["WB Backward Classes Commission", "Backward Classes Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Backward Classes Jobs"]
+    },
+    {
+      "name": "West Bengal State Council of Technical Education (WBSCTE)",
+      "category": "State Government",
+      "sub_category": "Technical Education Jobs",
+      "link": "https://webscte.co.in/",
+      "search_tags": ["WBSCTE", "West Bengal Technical Education Council", "Technical Education Jobs in West Bengal"],
+      "exam_pattern": "Written Exam, Interview",
+      "json_tag": ["West Bengal", "State Government", "Technical Education Jobs"]
+    }
+  ]
+}
