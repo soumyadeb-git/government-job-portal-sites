@@ -1,189 +1,184 @@
 {
   "states": [
-    {
-      "name": "Andaman and Nicobar Islands",
-      "link": "andaman_nicobar.json",
-      "image": "andaman_nicobar.jpg"
-    },
-    {
-      "name": "Andhra Pradesh",
-      "link": "andhra_pradesh.json",
-      "image": "andhra_pradesh.jpg"
-    },
-    {
-      "name": "Arunachal Pradesh",
-      "link": "arunachal_pradesh.json",
-      "image": "arunachal_pradesh.jpg"
-    },
-    {
-      "name": "Assam",
-      "link": "assam.json",
-      "image": "assam.jpg"
-    },
-    {
-      "name": "Bihar",
-      "link": "bihar.json",
-      "image": "bihar.jpg"
-    },
-    {
-      "name": "Chandigarh",
-      "link": "chandigarh.json",
-      "image": "chandigarh.jpg"
-    },
-    {
-      "name": "Chhattisgarh",
-      "link": "chhattisgarh.json",
-      "image": "chhattisgarh.jpg"
-    },
-    {
-      "name": "Dadra and Nagar Haveli",
-      "link": "dadra_nagar_haveli.json",
-      "image": "dadra_nagar_haveli.jpg"
-    },
-    {
-      "name": "Daman and Diu",
-      "link": "daman_diu.json",
-      "image": "daman_diu.jpg"
-    },
-    {
-      "name": "Delhi",
-      "link": "delhi.json",
-      "image": "delhi.jpg"
-    },
-    {
-      "name": "Goa",
-      "link": "goa.json",
-      "image": "goa.jpg"
-    },
-    {
-      "name": "Gujarat",
-      "link": "gujarat.json",
-      "image": "gujarat.jpg"
-    },
-    {
-      "name": "Haryana",
-      "link": "haryana.json",
-      "image": "haryana.jpg"
-    },
-    {
-      "name": "Himachal Pradesh",
-      "link": "himachal_pradesh.json",
-      "image": "himachal_pradesh.jpg"
-    },
-    {
-      "name": "Jammu and Kashmir",
-      "link": "jammu_kashmir.json",
-      "image": "jammu_kashmir.jpg"
-    },
-    {
-      "name": "Jharkhand",
-      "link": "jharkhand.json",
-      "image": "jharkhand.jpg"
-    },
-    {
-      "name": "Karnataka",
-      "link": "karnataka.json",
-      "image": "karnataka.jpg"
-    },
-    {
-      "name": "Kerala",
-      "link": "kerala.json",
-      "image": "kerala.jpg"
-    },
-    {
-      "name": "Ladakh",
-      "link": "ladakh.json",
-      "image": "ladakh.jpg"
-    },
-    {
-      "name": "Lakshadweep",
-      "link": "lakshadweep.json",
-      "image": "lakshadweep.jpg"
-    },
-    {
-      "name": "Madhya Pradesh",
-      "link": "madhya_pradesh.json",
-      "image": "madhya_pradesh.jpg"
-    },
-    {
-      "name": "Maharashtra",
-      "link": "maharashtra.json",
-      "image": "maharashtra.jpg"
-    },
-    {
-      "name": "Manipur",
-      "link": "manipur.json",
-      "image": "manipur.jpg"
-    },
-    {
-      "name": "Meghalaya",
-      "link": "meghalaya.json",
-      "image": "meghalaya.jpg"
-    },
-    {
-      "name": "Mizoram",
-      "link": "mizoram.json",
-      "image": "mizoram.jpg"
-    },
-    {
-      "name": "Nagaland",
-      "link": "nagaland.json",
-      "image": "nagaland.jpg"
-    },
-    {
-      "name": "Odisha",
-      "link": "odisha.json",
-      "image": "odisha.jpg"
-    },
-    {
-      "name": "Puducherry",
-      "link": "puducherry.json",
-      "image": "puducherry.jpg"
-    },
-    {
-      "name": "Punjab",
-      "link": "punjab.json",
-      "image": "punjab.jpg"
-    },
-    {
-      "name": "Rajasthan",
-      "link": "rajasthan.json",
-      "image": "rajasthan.jpg"
-    },
-    {
-      "name": "Sikkim",
-      "link": "sikkim.json",
-      "image": "sikkim.jpg"
-    },
-    {
-      "name": "Tamil Nadu",
-      "link": "tamil_nadu.json",
-      "image": "tamil_nadu.jpg"
-    },
-    {
-      "name": "Telangana",
-      "link": "telangana.json",
-      "image": "telangana.jpg"
-    },
-    {
-      "name": "Tripura",
-      "link": "tripura.json",
-      "image": "tripura.jpg"
-    },
-    {
-      "name": "Uttar Pradesh",
-      "link": "uttar_pradesh.json",
-      "image": "uttar_pradesh.jpg"
-    },
-    {
-      "name": "Uttarakhand",
-      "link": "uttarakhand.json",
-      "image": "uttarakhand.jpg"
-    },
-    {
-      "name": "West Bengal",
-      "link": "west_bengal.json",
-      "image": "west_bengal.jpg"
-    }
-  ]
+  {
+    "name": "andhra-pradesh.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/andhra-pradesh.jpeg",
+    "size": 20849,
+    "type": "file"
+  },
+  {
+    "name": "arunachal-pradesh.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/arunachal-pradesh.jpeg",
+    "size": 13813,
+    "type": "file"
+  },
+  {
+    "name": "assam.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/assam.jpeg",
+    "size": 13486,
+    "type": "file"
+  },
+  {
+    "name": "bihar.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/bihar.jpeg",
+    "size": 12024,
+    "type": "file"
+  },
+  {
+    "name": "chandigarh.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/chandigarh.jpeg",
+    "size": 15257,
+    "type": "file"
+  },
+  {
+    "name": "chhatisgarh.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/chhatisgarh.jpeg",
+    "size": 13143,
+    "type": "file"
+  },
+  {
+    "name": "foa.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/foa.jpeg",
+    "size": 15135,
+    "type": "file"
+  },
+  {
+    "name": "gujarat.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/gujarat.jpeg",
+    "size": 15024,
+    "type": "file"
+  },
+  {
+    "name": "haryana.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/haryana.jpeg",
+    "size": 18671,
+    "type": "file"
+  },
+  {
+    "name": "himachal-pradesh.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/himachal-pradesh.jpeg",
+    "size": 12806,
+    "type": "file"
+  },
+  {
+    "name": "jammu-and-kashmir.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jammu-and-kashmir.jpeg",
+    "size": 15602,
+    "type": "file"
+  },
+  {
+    "name": "jerala.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jerala.jpeg",
+    "size": 11818,
+    "type": "file"
+  },
+  {
+    "name": "jharkhand.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jharkhand.jpeg",
+    "size": 11644,
+    "type": "file"
+  },
+  {
+    "name": "karnataka.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/karnataka.jpeg",
+    "size": 13790,
+    "type": "file"
+  },
+  {
+    "name": "madhya-pradesh.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/madhya-pradesh.jpeg",
+    "size": 18094,
+    "type": "file"
+  },
+  {
+    "name": "maharashtra.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/maharashtra.jpeg",
+    "size": 16194,
+    "type": "file"
+  },
+  {
+    "name": "manipur.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/manipur.jpeg",
+    "size": 9369,
+    "type": "file"
+  },
+  {
+    "name": "meghalaya.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/meghalaya.jpeg",
+    "size": 10176,
+    "type": "file"
+  },
+  {
+    "name": "mizoram.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/mizoram.jpeg",
+    "size": 10042,
+    "type": "file"
+  },
+  {
+    "name": "nagaland.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/nagaland.jpeg",
+    "size": 10928,
+    "type": "file"
+  },
+  {
+    "name": "odisha.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/odisha.jpeg",
+    "size": 11947,
+    "type": "file"
+  },
+  {
+    "name": "punjab.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/punjab.jpeg",
+    "size": 11215,
+    "type": "file"
+  },
+  {
+    "name": "rajasthan.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/rajasthan.jpeg",
+    "size": 11231,
+    "type": "file"
+  },
+  {
+    "name": "sikim.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/sikim.jpeg",
+    "size": 12655,
+    "type": "file"
+  },
+  {
+    "name": "tamil-nadu.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/tamil-nadu.jpeg",
+    "size": 13996,
+    "type": "file"
+  },
+  {
+    "name": "telangana.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/telangana.jpeg",
+    "size": 11780,
+    "type": "file"
+  },
+  {
+    "name": "tripura.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/tripura.jpeg",
+    "size": 15134,
+    "type": "file"
+  },
+  {
+    "name": "uttar-pradesh.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/uttar-pradesh.jpeg",
+    "size": 10896,
+    "type": "file"
+  },
+  {
+    "name": "uttarakhand.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/uttarakhand.jpeg",
+    "size": 12101,
+    "type": "file"
+  },
+  {
+    "name": "west-bengal.jpeg",
+    "url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/west-bengal.jpeg",
+    "size": 16970,
+    "type": "file"
+  }
+]
 }
