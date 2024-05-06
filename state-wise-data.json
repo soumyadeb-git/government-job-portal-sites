@@ -16,7 +16,7 @@
       "name": "Bihar",
       "tagline": "The Land of Buddha",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/bihar.png",
-      "hyperlink-url": "https://github.com/soumyadeb-git/government-job-portal-sites/blob/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/bihar-job-site-data.json"
+      "hyperlink-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/bihar-job-site-data.json"
     },
     {
       "name": "Chandigarh",
@@ -64,7 +64,7 @@
       "name": "Jharkand",
       "tagline": "The Land of Forests",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jharkand.png",
-      "hyperlink-url": "https://github.com/soumyadeb-git/government-job-portal-sites/blob/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/Jharkhand-job-portal-sites-data.json"
+      "hyperlink-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/Jharkhand-job-portal-sites-data.json"
     },
     {
       "name": "Karnataka",
@@ -118,7 +118,7 @@
       "name": "Odisha",
       "tagline": "The Soul of India",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/odisha.png",
-      "hyperlink-url": "https://github.com/soumyadeb-git/government-job-portal-sites/blob/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/odisha-job-portal-site-data.json"
+      "hyperlink-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/odisha-job-portal-site-data.json"
     },
     {
       "name": "Punjab",
@@ -154,13 +154,13 @@
       "name": "Uttar Pradesh",
       "tagline": "The Heartland of India",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/uttar-pradesh.png",
-      "hyperlink-url": "https://github.com/soumyadeb-git/government-job-portal-sites/blob/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/uttar-pradesh-government-job-portal-sites-data.json"
+      "hyperlink-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/uttar-pradesh-government-job-portal-sites-data.json"
     },
     {
       "name": "West Bengal",
       "tagline": "The Cultural Capital of India",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/west-bengal.png",
-      "hyperlink-url": "https://github.com/soumyadeb-git/government-job-portal-sites/blob/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/westbengal-job-site-data.json"
+      "hyperlink-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/75c5e1c80e4e5c4f250c06f4c19e065700469db6/All%20State/westbengal-job-site-data.json"
     }
   ]
 }
