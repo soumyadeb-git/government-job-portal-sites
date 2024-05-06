@@ -1,137 +1,164 @@
 {
   "states": [
     {
-      "name": "arunachal-pradesh",
+      "name": "Arunachal Pradesh",
+      "tagline": "The Land of the Rising Sun",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/arunachal-pradesh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "assam",
+      "name": "Assam",
+      "tagline": "The Land of Red Rivers and Blue Hills",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/assam.png",
       "hyperlink-url": ""
     },
     {
-      "name": "bihar",
+      "name": "Bihar",
+      "tagline": "The Land of Buddha",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/bihar.png",
       "hyperlink-url": ""
     },
     {
-      "name": "chandigarh",
+      "name": "Chandigarh",
+      "tagline": "The City Beautiful",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/chandigarh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "chhatisgarh",
+      "name": "Chhatisgarh",
+      "tagline": "The Rice Bowl of India",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/chhatisgarh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "goa",
+      "name": "Goa",
+      "tagline": "Pearl of the Orient",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/goa.png",
       "hyperlink-url": ""
     },
     {
-      "name": "gujarat",
+      "name": "Gujarat",
+      "tagline": "The Land of the Legends",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/gujarat.png",
       "hyperlink-url": ""
     },
     {
-      "name": "haryana",
+      "name": "Haryana",
+      "tagline": "The Home of Gods",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/haryana.png",
       "hyperlink-url": ""
     },
     {
-      "name": "himachal",
+      "name": "Himachal",
+      "tagline": "Land of Gods",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/himachal.png",
       "hyperlink-url": ""
     },
     {
-      "name": "jammu-and-kashmir",
+      "name": "Jammu and Kashmir",
+      "tagline": "Paradise on Earth",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jammu-and-kashmir.png",
       "hyperlink-url": ""
     },
     {
-      "name": "jharkand",
+      "name": "Jharkand",
+      "tagline": "The Land of Forests",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/jharkand.png",
       "hyperlink-url": ""
     },
     {
-      "name": "karnataka",
+      "name": "Karnataka",
+      "tagline": "The Land of Sandalwood",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/karnataka.png",
       "hyperlink-url": ""
     },
     {
-      "name": "kerala",
+      "name": "Kerala",
+      "tagline": "God's Own Country",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/kerala.png",
       "hyperlink-url": ""
     },
     {
-      "name": "madhya-pradesh",
+      "name": "Madhya Pradesh",
+      "tagline": "The Heart of India",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/madhya-pradesh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "maharashtra",
+      "name": "Maharashtra",
+      "tagline": "The Land of Marathas",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/maharashtra.png",
       "hyperlink-url": ""
     },
     {
-      "name": "manipur",
+      "name": "Manipur",
+      "tagline": "The Jeweled Land",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/manipur.png",
       "hyperlink-url": ""
     },
     {
-      "name": "meghalaya",
+      "name": "Meghalaya",
+      "tagline": "The Abode of Clouds",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/meghalaya.png",
       "hyperlink-url": ""
     },
     {
-      "name": "mizoram",
+      "name": "Mizoram",
+      "tagline": "The Land of the Highlanders",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/mizoram.png",
       "hyperlink-url": ""
     },
     {
-      "name": "nagaland-india",
+      "name": "Nagaland India",
+      "tagline": "The Land of Festivals",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/nagaland-india.png",
       "hyperlink-url": ""
     },
     {
-      "name": "odisha",
+      "name": "Odisha",
+      "tagline": "The Soul of India",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/odisha.png",
       "hyperlink-url": ""
     },
     {
-      "name": "punjab",
+      "name": "Punjab",
+      "tagline": "The Land of Five Rivers",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/punjab.png",
       "hyperlink-url": ""
     },
     {
-      "name": "rajasthan",
+      "name": "Rajasthan",
+      "tagline": "The Land of Kings",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/rajasthan.png",
       "hyperlink-url": ""
     },
     {
-      "name": "tamil-nadu",
+      "name": "Tamil Nadu",
+      "tagline": "The Land of Tamils",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/tamil-nadu.png",
       "hyperlink-url": ""
     },
     {
-      "name": "telangana",
+      "name": "Telangana",
+      "tagline": "The Land of Nizams",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/telangana.png",
       "hyperlink-url": ""
     },
     {
-      "name": "tripura",
+      "name": "Tripura",
+      "tagline": "The Land of Greenery",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/tripura.png",
       "hyperlink-url": ""
     },
     {
-      "name": "uttar-pradesh",
+      "name": "Uttar Pradesh",
+      "tagline": "The Heartland of India",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/uttar-pradesh.png",
       "hyperlink-url": ""
     },
     {
-      "name": "west-bengal",
+      "name": "West Bengal",
+      "tagline": "The Cultural Capital of India",
       "img-url": "https://raw.githubusercontent.com/soumyadeb-git/government-job-portal-sites/main/img/west-bengal.png",
       "hyperlink-url": ""
     }
