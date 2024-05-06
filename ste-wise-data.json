@@ -1,0 +1,189 @@
+{
+  "states": [
+    {
+      "name": "Andaman and Nicobar Islands",
+      "link": "andaman_nicobar.json",
+      "image": "andaman_nicobar.jpg"
+    },
+    {
+      "name": "Andhra Pradesh",
+      "link": "andhra_pradesh.json",
+      "image": "andhra_pradesh.jpg"
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "link": "arunachal_pradesh.json",
+      "image": "arunachal_pradesh.jpg"
+    },
+    {
+      "name": "Assam",
+      "link": "assam.json",
+      "image": "assam.jpg"
+    },
+    {
+      "name": "Bihar",
+      "link": "bihar.json",
+      "image": "bihar.jpg"
+    },
+    {
+      "name": "Chandigarh",
+      "link": "chandigarh.json",
+      "image": "chandigarh.jpg"
+    },
+    {
+      "name": "Chhattisgarh",
+      "link": "chhattisgarh.json",
+      "image": "chhattisgarh.jpg"
+    },
+    {
+      "name": "Dadra and Nagar Haveli",
+      "link": "dadra_nagar_haveli.json",
+      "image": "dadra_nagar_haveli.jpg"
+    },
+    {
+      "name": "Daman and Diu",
+      "link": "daman_diu.json",
+      "image": "daman_diu.jpg"
+    },
+    {
+      "name": "Delhi",
+      "link": "delhi.json",
+      "image": "delhi.jpg"
+    },
+    {
+      "name": "Goa",
+      "link": "goa.json",
+      "image": "goa.jpg"
+    },
+    {
+      "name": "Gujarat",
+      "link": "gujarat.json",
+      "image": "gujarat.jpg"
+    },
+    {
+      "name": "Haryana",
+      "link": "haryana.json",
+      "image": "haryana.jpg"
+    },
+    {
+      "name": "Himachal Pradesh",
+      "link": "himachal_pradesh.json",
+      "image": "himachal_pradesh.jpg"
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "link": "jammu_kashmir.json",
+      "image": "jammu_kashmir.jpg"
+    },
+    {
+      "name": "Jharkhand",
+      "link": "jharkhand.json",
+      "image": "jharkhand.jpg"
+    },
+    {
+      "name": "Karnataka",
+      "link": "karnataka.json",
+      "image": "karnataka.jpg"
+    },
+    {
+      "name": "Kerala",
+      "link": "kerala.json",
+      "image": "kerala.jpg"
+    },
+    {
+      "name": "Ladakh",
+      "link": "ladakh.json",
+      "image": "ladakh.jpg"
+    },
+    {
+      "name": "Lakshadweep",
+      "link": "lakshadweep.json",
+      "image": "lakshadweep.jpg"
+    },
+    {
+      "name": "Madhya Pradesh",
+      "link": "madhya_pradesh.json",
+      "image": "madhya_pradesh.jpg"
+    },
+    {
+      "name": "Maharashtra",
+      "link": "maharashtra.json",
+      "image": "maharashtra.jpg"
+    },
+    {
+      "name": "Manipur",
+      "link": "manipur.json",
+      "image": "manipur.jpg"
+    },
+    {
+      "name": "Meghalaya",
+      "link": "meghalaya.json",
+      "image": "meghalaya.jpg"
+    },
+    {
+      "name": "Mizoram",
+      "link": "mizoram.json",
+      "image": "mizoram.jpg"
+    },
+    {
+      "name": "Nagaland",
+      "link": "nagaland.json",
+      "image": "nagaland.jpg"
+    },
+    {
+      "name": "Odisha",
+      "link": "odisha.json",
+      "image": "odisha.jpg"
+    },
+    {
+      "name": "Puducherry",
+      "link": "puducherry.json",
+      "image": "puducherry.jpg"
+    },
+    {
+      "name": "Punjab",
+      "link": "punjab.json",
+      "image": "punjab.jpg"
+    },
+    {
+      "name": "Rajasthan",
+      "link": "rajasthan.json",
+      "image": "rajasthan.jpg"
+    },
+    {
+      "name": "Sikkim",
+      "link": "sikkim.json",
+      "image": "sikkim.jpg"
+    },
+    {
+      "name": "Tamil Nadu",
+      "link": "tamil_nadu.json",
+      "image": "tamil_nadu.jpg"
+    },
+    {
+      "name": "Telangana",
+      "link": "telangana.json",
+      "image": "telangana.jpg"
+    },
+    {
+      "name": "Tripura",
+      "link": "tripura.json",
+      "image": "tripura.jpg"
+    },
+    {
+      "name": "Uttar Pradesh",
+      "link": "uttar_pradesh.json",
+      "image": "uttar_pradesh.jpg"
+    },
+    {
+      "name": "Uttarakhand",
+      "link": "uttarakhand.json",
+      "image": "uttarakhand.jpg"
+    },
+    {
+      "name": "West Bengal",
+      "link": "west_bengal.json",
+      "image": "west_bengal.jpg"
+    }
+  ]
+}
