@@ -4,7 +4,7 @@
       "name": "Jharkhand Public Service Commission (JPSC)",
       "category": "State Government",
       "sub_category": "Recruitment Exams",
-      "link": "http://www.jpsc.gov.in/",
+      "link": "https://jpsc.gov.in/",
       "search_tags": ["JPSC", "Jharkhand PSC", "Public Service Commission Jharkhand", "JPSC Recruitment"],
       "exam_pattern": "Preliminary Exam, Main Exam, Interview",
       "json_tag": ["Jharkhand", "State Government", "Recruitment Exams"]
@@ -13,7 +13,7 @@
       "name": "Jharkhand Staff Selection Commission (JSSC)",
       "category": "State Government",
       "sub_category": "Recruitment Exams",
-      "link": "https://www.jssc.nic.in/",
+      "link": "https://jssc.nic.in/",
       "search_tags": ["JSSC", "Jharkhand SSC", "Staff Selection Commission Jharkhand", "JSSC Recruitment"],
       "exam_pattern": "Preliminary Exam, Main Exam, Skill Test, Interview",
       "json_tag": ["Jharkhand", "State Government", "Recruitment Exams"]
@@ -31,7 +31,7 @@
       "name": "Jharkhand State Electricity Board (JSEB)",
       "category": "State Government",
       "sub_category": "Electricity Jobs",
-      "link": "https://www.jseb.org/",
+      "link": "https://www.jbvnl.co.in/",
       "search_tags": ["JSEB Recruitment", "Electricity Jobs in Jharkhand"],
       "exam_pattern": "Written Exam, Interview",
       "json_tag": ["Jharkhand", "State Government", "Electricity Jobs"]
@@ -112,7 +112,7 @@
       "name": "Jharkhand State Khadi and Village Industries Board (JSKVIB)",
       "category": "State Government",
       "sub_category": "Rural Development Jobs",
-      "link": "http://www.jskvib.nic.in/",
+      "link": "https://jkkvib.in/",
       "search_tags": ["JSKVIB Recruitment", "Rural Development Jobs in Jharkhand"],
       "exam_pattern": "Written Exam, Interview",
       "json_tag": ["Jharkhand", "State Government", "Rural Development Jobs"]
