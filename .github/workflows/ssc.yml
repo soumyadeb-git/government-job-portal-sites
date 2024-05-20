@@ -3,6 +3,7 @@ name: Fetch Data and Send to Telegram
 on:
   schedule:
     - cron: '0 0 * * *'  # Run the workflow daily at midnight
+  workflow_dispatch:
 
 jobs:
   fetch_and_send_data:
