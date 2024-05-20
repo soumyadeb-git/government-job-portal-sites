@@ -42,9 +42,13 @@ jobs:
           git commit -m "Update ssc.json" || echo "No changes to commit"
           git pull origin main || echo "No remote changes to pull"
           git push origin main
-          
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
