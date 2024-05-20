@@ -12,7 +12,7 @@ url = "https://ssc.gov.in/api/general-website/portal/records?page=1&limit=10&con
 base_url = "https://ssc.gov.in/api/attachment/"
 
 # Telegram Bot Token
-telegram_bot_token = "6741806828:AAFcSnSJlKgfnW5gWsE7bJEitHjejZYXSL0"
+telegram_bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
 
 # Telegram Channel ID
 telegram_channel_id = "@government_job_hunter"
